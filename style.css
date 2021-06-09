@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+img{
+  margin-top: 300px;
+  z-index: 99999;
+}
